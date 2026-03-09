@@ -30,7 +30,7 @@ Perfect for UI/UX designers, frontend developers, or anyone looking to enhance t
 
 ## Live Demo
 
-Check out the live project [here](https://your-vercel-url.vercel.app).
+Check out the live project [here](https://dihue-website.vercel.app).
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
