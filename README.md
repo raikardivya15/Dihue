@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Dihue
 
 Dihue is a modern, interactive gradient generator and gallery built with **Next.js** and **React**. It allows designers, developers, and creators to:
